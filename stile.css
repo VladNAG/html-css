@@ -1,1 +1,15 @@
- 
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .img-float {
+    float: left;
+    width: 250px;
+    margin:0 20px 20px 0;
+  }
+  .img-float2 {
+    float: right;
+    width: 200px;
+    margin:0 10px 20px 0;
+  }
